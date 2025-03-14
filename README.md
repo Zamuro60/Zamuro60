@@ -5,3 +5,4 @@
 📫 How to reach me: [Mi email: katxilapo@gmail.com]
 😄 Pronouns: [El]
 ⚡ Fun fact: [desarrllo imágenes en Adobe y me gusta la fotografía]
+![Mi Foto](Logo espiral Github.jpg)
