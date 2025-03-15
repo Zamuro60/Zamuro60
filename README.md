@@ -6,6 +6,9 @@
 😄 Pronouns: [El]
 ⚡ Fun fact: [desarrllo imágenes en Adobe y me gusta la fotografía]
 
+
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zamuro60/Zamuro60/eb55865fc5c2dd46c683fd3525ec9c9d2ae30982/Logo%20espiral%20Github.jpg" alt="Logo espiral">
 </div>
